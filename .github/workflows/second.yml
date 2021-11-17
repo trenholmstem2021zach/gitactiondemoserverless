@@ -1,6 +1,6 @@
 name: Second Things After
 on: [push]
-jobs:
+jobs.second:
   Second-Things:
     runs-on: ubuntu-latest
     steps:

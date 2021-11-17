@@ -1,6 +1,6 @@
 name: First Things First
 on: [push]
-jobs:
+jobs.first:
   First-Things:
     runs-on: ubuntu-latest
     steps:
